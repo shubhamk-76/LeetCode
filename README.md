@@ -1,4 +1,4 @@
 # LeetCode
 LeetCode Problem Solutions
 
-My solutions to LeetCode problems.
+My own personal solutions to LeetCode problems.
