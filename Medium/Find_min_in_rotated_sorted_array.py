@@ -1,4 +1,4 @@
-# solution of problem Find Minimum in Rotated Sorted Array
+# solution of problem Find Minimum in Rotated Sorted Array #
 
 class Solution:
     def findMin(self, nums: List[int]) -> int:
